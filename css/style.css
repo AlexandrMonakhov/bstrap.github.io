@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: #3b3f6a;
+}
+
+.header {
+  padding: 3.2rem 0rem 6.5rem 0rem;
+  text-align: center;
+}
+
+.content__image {
+  margin-bottom: 3rem;
+  height: 10rem;
+}
+/*# sourceMappingURL=style.css.map */
